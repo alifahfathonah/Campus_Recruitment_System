@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "tumpa";
-$dbname = "crs";
+$username = "root";     //by default username is root if you dont change it
+$password = "*****";    //use your sql password
+$dbname = "crs";      // Database Nmae
 
 // Create Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
