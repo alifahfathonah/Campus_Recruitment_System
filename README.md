@@ -10,4 +10,4 @@ Here The Basic Tasks are done , like-
 #### 5. checking all vacant job details 
 #### 6. If its admin then see jobs, update jobs 
 ####    etc....
-#### 7. used mysql database 
+#### 7. used sql database 
